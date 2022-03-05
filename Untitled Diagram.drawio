@@ -1,40 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T07:36:58.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="VOhcCVgA8qx58fmyTvlI" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-05T08:01:45.536Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="hIURrY-2SQIOT6Y_AjyC" version="16.6.6" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;Step 1&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Input: value of&amp;nbsp;&lt;span&gt;magnetic&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;flux&amp;nbsp;&lt;/span&gt;&lt;span&gt;about (R, Z)&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-          <mxGeometry x="390" y="100" width="167" height="90" as="geometry" />
+          <mxGeometry x="380" y="120" width="167" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="95" value="Design&#xa;specs" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
-          <mxGeometry x="423.49999999999994" y="461.0000000000002" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="xpmbOq3RBhRkhtXL7cRp-98" value="" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="6" target="xpmbOq3RBhRkhtXL7cRp-105">
+        <mxCell id="xpmbOq3RBhRkhtXL7cRp-98" value="" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="6" target="xpmbOq3RBhRkhtXL7cRp-105" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="393.5" y="380" as="sourcePoint" />
             <mxPoint x="473.5" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xpmbOq3RBhRkhtXL7cRp-99" value="&lt;b&gt;Find magnetic flux using RK method&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="363.5" y="300" width="220" height="20" as="geometry" />
+        <mxCell id="xpmbOq3RBhRkhtXL7cRp-105" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;Step 2&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Find magnetic flux surface&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;using RK method&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="353.5" y="260" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xpmbOq3RBhRkhtXL7cRp-105" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;Step 2&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Find magnetic flux surface&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;using RK method&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="363.5" y="250" width="220" height="80" as="geometry" />
+        <mxCell id="xpmbOq3RBhRkhtXL7cRp-106" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;Step 3&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Calculate B on each surface and&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;integrate along the surface&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="353.5" y="400" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xpmbOq3RBhRkhtXL7cRp-106" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;Step 3&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Calculate B on each surface and&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;integrate along the surface&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="363.5" y="390" width="220" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="xpmbOq3RBhRkhtXL7cRp-107" value="" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="xpmbOq3RBhRkhtXL7cRp-105" target="xpmbOq3RBhRkhtXL7cRp-106">
+        <mxCell id="xpmbOq3RBhRkhtXL7cRp-107" value="" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" parent="1" source="xpmbOq3RBhRkhtXL7cRp-105" target="xpmbOq3RBhRkhtXL7cRp-106" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="483.5" y="328" as="sourcePoint" />
             <mxPoint x="483.5" y="388" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xpmbOq3RBhRkhtXL7cRp-108" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;Step 4&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Output: Integrate of dl/B&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;against normalized&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;magnetic flux&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
-          <mxGeometry x="390" y="520" width="167" height="90" as="geometry" />
+        <mxCell id="xpmbOq3RBhRkhtXL7cRp-108" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;Step 4&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Output: Integrate of dl/B&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;against normalized&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;magnetic flux&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
+          <mxGeometry x="380" y="530" width="167" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="xpmbOq3RBhRkhtXL7cRp-109" value="" style="endArrow=classic;html=1;rounded=1;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xpmbOq3RBhRkhtXL7cRp-106" target="xpmbOq3RBhRkhtXL7cRp-108">
+        <mxCell id="xpmbOq3RBhRkhtXL7cRp-109" value="" style="endArrow=classic;html=1;rounded=1;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="xpmbOq3RBhRkhtXL7cRp-106" target="xpmbOq3RBhRkhtXL7cRp-108" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="500" as="sourcePoint" />
             <mxPoint x="483.5" y="538" as="targetPoint" />
