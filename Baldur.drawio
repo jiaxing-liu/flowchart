@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T14:24:19.189Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="DlHDHh1iDaFqQek62xGe" version="20.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-27T14:42:48.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="_AEdbvkvBgu4WtgG7amy" version="20.2.1" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="599" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -867,8 +867,11 @@
         <mxCell id="sddFKiHceXVWM-g-uSeA-63" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;dolymp.f : masage&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#82b366;shadow=1;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="1327.84" y="1630" width="117.84" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sddFKiHceXVWM-g-uSeA-65" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;dolymp.f : resetr&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
+        <mxCell id="sddFKiHceXVWM-g-uSeA-65" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;dolymp.f : resetr&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#82b366;shadow=1;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="1327.84" y="1740" width="117.84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sddFKiHceXVWM-g-uSeA-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sddFKiHceXVWM-g-uSeA-67" target="sddFKiHceXVWM-g-uSeA-90">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sddFKiHceXVWM-g-uSeA-67" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;otable.f : otable&lt;/strong&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
           <mxGeometry x="1327.84" y="1800" width="117.84" height="30" as="geometry" />
@@ -899,6 +902,9 @@
         </mxCell>
         <mxCell id="sddFKiHceXVWM-g-uSeA-85" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;imprad.f : smooth&lt;/strong&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
           <mxGeometry x="1327.84" y="2308" width="117.84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sddFKiHceXVWM-g-uSeA-90" value="include subroutines:&lt;br&gt;oclear, reseti, mesage, ivar, hvar, resetr, rarray" style="rhombus;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#D4E1F5;strokeColor=#003366;fontColor=#003366;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="1750" width="140" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
