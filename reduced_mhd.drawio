@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T13:26:20.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="k5aAPOOIlGzlERWVIYz_" version="22.1.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-23T13:47:31.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="7Qh1Ecym8BLkuTNPPUT6" version="22.1.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2267" dy="1887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -928,11 +928,23 @@
         <mxCell id="RLY1yqrqXE7ZBBlZP0H9-48" value="&lt;b&gt;nimlib/lagrange_quad.F90:lagr_quad_bases&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-850" y="356" width="255" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RLY1yqrqXE7ZBBlZP0H9-52" value="&lt;b&gt;poly_nodes&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="RLY1yqrqXE7ZBBlZP0H9-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLY1yqrqXE7ZBBlZP0H9-52" target="RLY1yqrqXE7ZBBlZP0H9-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLY1yqrqXE7ZBBlZP0H9-52" value="&lt;b&gt;nimlib/polynomials.f90:poly_nodes&lt;/b&gt;&lt;br&gt;module: poly_mod" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-510" y="416" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RLY1yqrqXE7ZBBlZP0H9-54" value="&lt;b&gt;memlogger&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="RLY1yqrqXE7ZBBlZP0H9-54" value="&lt;b&gt;nimlib/memlog.F90:memlogger&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-510" y="486" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RLY1yqrqXE7ZBBlZP0H9-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RLY1yqrqXE7ZBBlZP0H9-55" target="RLY1yqrqXE7ZBBlZP0H9-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLY1yqrqXE7ZBBlZP0H9-55" value="&lt;b&gt;nimlib/polynomials.f90:lobleg&lt;/b&gt;&lt;br&gt;module: local" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-780" y="416" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RLY1yqrqXE7ZBBlZP0H9-57" value="&lt;b&gt;nimlib/polynomials.f90:gauleg&lt;/b&gt;&lt;br&gt;module: local" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1047" y="416" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
