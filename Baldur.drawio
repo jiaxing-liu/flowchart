@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T07:41:19.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="UzD3uUopEDbWlUDMGhwI" version="24.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.7.4" pages="4">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="744" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -3546,6 +3546,78 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pOVvlptvNF_52PnjNErL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="pOVvlptvNF_52PnjNErL-1" source="pOVvlptvNF_52PnjNErL-12" target="pOVvlptvNF_52PnjNErL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PzmwoJzjeytQTAi_NmA4" name="Page-4">
+    <mxGraphModel dx="1434" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5EknfBIy09OAIksC9m6w-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="140" width="580" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="5EknfBIy09OAIksC9m6w-2" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Baldur transport code&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="5EknfBIy09OAIksC9m6w-1">
+          <mxGeometry width="580" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="5EknfBIy09OAIksC9m6w-3" value="" style="group" vertex="1" connectable="0" parent="5EknfBIy09OAIksC9m6w-1">
+          <mxGeometry x="24" y="60" width="525" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="5EknfBIy09OAIksC9m6w-4" value="" style="group" vertex="1" connectable="0" parent="5EknfBIy09OAIksC9m6w-3">
+          <mxGeometry x="170" y="350" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5EknfBIy09OAIksC9m6w-5" value="&lt;h2 style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Equilibrium&lt;/b&gt;&lt;/h2&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5EknfBIy09OAIksC9m6w-4">
+          <mxGeometry width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5EknfBIy09OAIksC9m6w-6" value="VMOMS&lt;br&gt;VMEC(√)&lt;br&gt;VMEC2&lt;br&gt;TSC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5EknfBIy09OAIksC9m6w-4">
+          <mxGeometry x="18" y="35" width="84" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="5EknfBIy09OAIksC9m6w-7" value="&lt;h2 style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Evolve Bp&lt;/b&gt;&lt;/h2&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5EknfBIy09OAIksC9m6w-3">
+          <mxGeometry x="400" y="350" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5EknfBIy09OAIksC9m6w-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="5EknfBIy09OAIksC9m6w-3" source="5EknfBIy09OAIksC9m6w-5" target="5EknfBIy09OAIksC9m6w-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5EknfBIy09OAIksC9m6w-9" value="&lt;h2 style=&quot;text-align: left;&quot;&gt;Source&lt;/h2&gt;&lt;div&gt;heat(加热模型、方式)&lt;/div&gt;&lt;div&gt;ECRH&lt;/div&gt;&lt;div&gt;cmpres(压缩等离子体)&lt;/div&gt;&lt;div&gt;he3/alpha(聚变反应)&lt;/div&gt;&lt;div&gt;pdrive(pellet injection)&lt;/div&gt;&lt;div&gt;NBI(?)&lt;br&gt;&lt;/div&gt;&lt;div&gt;辐射(??)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5EknfBIy09OAIksC9m6w-3">
+          <mxGeometry x="395" width="130" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="5EknfBIy09OAIksC9m6w-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="5EknfBIy09OAIksC9m6w-3" source="5EknfBIy09OAIksC9m6w-7" target="5EknfBIy09OAIksC9m6w-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5EknfBIy09OAIksC9m6w-11" value="" style="group" vertex="1" connectable="0" parent="5EknfBIy09OAIksC9m6w-3">
+          <mxGeometry y="240" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5EknfBIy09OAIksC9m6w-12" value="&lt;h2 style=&quot;text-align: left;&quot;&gt;&lt;b&gt;1MHD stability&lt;/b&gt;&lt;/h2&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5EknfBIy09OAIksC9m6w-11">
+          <mxGeometry width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5EknfBIy09OAIksC9m6w-13" value="lsweq(4)-ballooning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5EknfBIy09OAIksC9m6w-11">
+          <mxGeometry x="20" y="41" width="84" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="5EknfBIy09OAIksC9m6w-14" value="&lt;h2 style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Evolve n、T&lt;/b&gt;&lt;/h2&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5EknfBIy09OAIksC9m6w-3">
+          <mxGeometry x="180" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5EknfBIy09OAIksC9m6w-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="5EknfBIy09OAIksC9m6w-3" source="5EknfBIy09OAIksC9m6w-9" target="5EknfBIy09OAIksC9m6w-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="395" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5EknfBIy09OAIksC9m6w-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="5EknfBIy09OAIksC9m6w-3" source="5EknfBIy09OAIksC9m6w-12" target="5EknfBIy09OAIksC9m6w-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5EknfBIy09OAIksC9m6w-17" value="&lt;h2 style=&quot;text-align: left;&quot;&gt;Fusion&lt;/h2&gt;&lt;div&gt;power and particle source&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5EknfBIy09OAIksC9m6w-3">
+          <mxGeometry x="5" y="70" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5EknfBIy09OAIksC9m6w-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5EknfBIy09OAIksC9m6w-3" source="5EknfBIy09OAIksC9m6w-17" target="5EknfBIy09OAIksC9m6w-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5EknfBIy09OAIksC9m6w-19" value="bd cond." style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5EknfBIy09OAIksC9m6w-3">
+          <mxGeometry x="465" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5EknfBIy09OAIksC9m6w-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5EknfBIy09OAIksC9m6w-3" source="5EknfBIy09OAIksC9m6w-14" target="5EknfBIy09OAIksC9m6w-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
