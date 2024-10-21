@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T12:15:48.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="zE8rEUyJmM45ihlgYQrs" version="22.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.16" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2140" dy="1729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2146,8 +2146,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="AH4AczsIqFEM5tC_sfL6" name="第 2 页">
-    <mxGraphModel dx="1374" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="AH4AczsIqFEM5tC_sfL6" name="HKM">
+    <mxGraphModel dx="2269" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2261,6 +2261,28 @@
         </mxCell>
         <mxCell id="5F2TPJU8I5YiPstU5qH7-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cpSEoigYiclNBkVWbl9g-3" target="5F2TPJU8I5YiPstU5qH7-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="HKSET" id="LTD6wKjtw56peGRMzeLf">
+    <mxGraphModel dx="993" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ZsqahmLDLAg-K1y74L4_-0" />
+        <mxCell id="ZsqahmLDLAg-K1y74L4_-1" parent="ZsqahmLDLAg-K1y74L4_-0" />
+        <mxCell id="ZsqahmLDLAg-K1y74L4_-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZsqahmLDLAg-K1y74L4_-1" source="ZsqahmLDLAg-K1y74L4_-3" target="ZsqahmLDLAg-K1y74L4_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsqahmLDLAg-K1y74L4_-3" value="&lt;b&gt;HKSET code&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZsqahmLDLAg-K1y74L4_-1">
+          <mxGeometry x="490" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsqahmLDLAg-K1y74L4_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZsqahmLDLAg-K1y74L4_-1" source="ZsqahmLDLAg-K1y74L4_-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsqahmLDLAg-K1y74L4_-5" value="&lt;b&gt;READ INPUT&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZsqahmLDLAg-K1y74L4_-1">
+          <mxGeometry x="490" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
