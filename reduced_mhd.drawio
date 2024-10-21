@@ -2276,13 +2276,38 @@
         <mxCell id="ZsqahmLDLAg-K1y74L4_-3" value="&lt;b&gt;HKSET code&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZsqahmLDLAg-K1y74L4_-1">
           <mxGeometry x="490" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZsqahmLDLAg-K1y74L4_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZsqahmLDLAg-K1y74L4_-1" source="ZsqahmLDLAg-K1y74L4_-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="760" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="maG4w-pXJavXEeVm72Z--1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZsqahmLDLAg-K1y74L4_-1" source="ZsqahmLDLAg-K1y74L4_-5" target="maG4w-pXJavXEeVm72Z--0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZsqahmLDLAg-K1y74L4_-5" value="&lt;b&gt;READ INPUT&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZsqahmLDLAg-K1y74L4_-1">
           <mxGeometry x="490" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="maG4w-pXJavXEeVm72Z--5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZsqahmLDLAg-K1y74L4_-1" source="maG4w-pXJavXEeVm72Z--0" target="maG4w-pXJavXEeVm72Z--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="maG4w-pXJavXEeVm72Z--0" value="&lt;div&gt;&lt;b&gt;normalization&lt;/b&gt;&lt;/div&gt;&lt;br&gt;做一些数据处理、设置一些常用变量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZsqahmLDLAg-K1y74L4_-1">
+          <mxGeometry x="490" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="maG4w-pXJavXEeVm72Z--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZsqahmLDLAg-K1y74L4_-1" source="maG4w-pXJavXEeVm72Z--4" target="maG4w-pXJavXEeVm72Z--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="maG4w-pXJavXEeVm72Z--4" value="&lt;div&gt;&lt;b&gt;计算&lt;/b&gt;&lt;b&gt;平衡和&lt;/b&gt;&lt;b&gt;网格&lt;/b&gt;&lt;/div&gt;读取平衡，并将平衡映射到 RZ 网格上" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZsqahmLDLAg-K1y74L4_-1">
+          <mxGeometry x="490" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="maG4w-pXJavXEeVm72Z--9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZsqahmLDLAg-K1y74L4_-1" source="maG4w-pXJavXEeVm72Z--6" target="maG4w-pXJavXEeVm72Z--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="maG4w-pXJavXEeVm72Z--6" value="&lt;div&gt;&lt;b&gt;计算&lt;/b&gt;&lt;b&gt;扰动&lt;/b&gt;&lt;/div&gt;&lt;div&gt;calc_perturbations&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZsqahmLDLAg-K1y74L4_-1">
+          <mxGeometry x="690" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="maG4w-pXJavXEeVm72Z--15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZsqahmLDLAg-K1y74L4_-1" source="maG4w-pXJavXEeVm72Z--8" target="maG4w-pXJavXEeVm72Z--14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="maG4w-pXJavXEeVm72Z--8" value="&lt;div&gt;&lt;b&gt;写入 dump 文件&lt;/b&gt;&lt;/div&gt;dump_write" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZsqahmLDLAg-K1y74L4_-1">
+          <mxGeometry x="690" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="maG4w-pXJavXEeVm72Z--14" value="&lt;div&gt;&lt;b&gt;结束&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZsqahmLDLAg-K1y74L4_-1">
+          <mxGeometry x="690" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
