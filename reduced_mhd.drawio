@@ -2285,13 +2285,13 @@
         <mxCell id="maG4w-pXJavXEeVm72Z--5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZsqahmLDLAg-K1y74L4_-1" source="maG4w-pXJavXEeVm72Z--0" target="maG4w-pXJavXEeVm72Z--4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="maG4w-pXJavXEeVm72Z--0" value="&lt;div&gt;&lt;b&gt;normalization&lt;/b&gt;&lt;/div&gt;&lt;br&gt;做一些数据处理、设置一些常用变量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZsqahmLDLAg-K1y74L4_-1">
+        <mxCell id="maG4w-pXJavXEeVm72Z--0" value="&lt;div&gt;&lt;b&gt;normalization&lt;/b&gt;&lt;/div&gt;做一些数据处理、设置一些常用变量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZsqahmLDLAg-K1y74L4_-1">
           <mxGeometry x="310" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="maG4w-pXJavXEeVm72Z--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZsqahmLDLAg-K1y74L4_-1" source="maG4w-pXJavXEeVm72Z--4" target="maG4w-pXJavXEeVm72Z--6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="maG4w-pXJavXEeVm72Z--4" value="&lt;div&gt;&lt;b&gt;计算&lt;/b&gt;&lt;b&gt;平衡和&lt;/b&gt;&lt;b&gt;网格&lt;/b&gt;&lt;/div&gt;读取平衡，并将平衡映射到 RZ 网格上" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZsqahmLDLAg-K1y74L4_-1">
+        <mxCell id="maG4w-pXJavXEeVm72Z--4" value="&lt;div&gt;&lt;b&gt;计算&lt;/b&gt;&lt;b&gt;平衡和&lt;/b&gt;&lt;b&gt;网格&lt;/b&gt;&lt;/div&gt;calc_eq_grid, 读取平衡，并将平衡映射到 RZ 网格上" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZsqahmLDLAg-K1y74L4_-1">
           <mxGeometry x="490" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="maG4w-pXJavXEeVm72Z--9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZsqahmLDLAg-K1y74L4_-1" source="maG4w-pXJavXEeVm72Z--6" target="maG4w-pXJavXEeVm72Z--8">
