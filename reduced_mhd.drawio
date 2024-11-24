@@ -2338,6 +2338,9 @@
         <mxCell id="TSQTxeQZEHn2F06pjwsT-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TSQTxeQZEHn2F06pjwsT-1" source="TSQTxeQZEHn2F06pjwsT-9" target="TSQTxeQZEHn2F06pjwsT-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="eQYu07_KFsGb2TOWBcub-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TSQTxeQZEHn2F06pjwsT-1" source="TSQTxeQZEHn2F06pjwsT-9" target="eQYu07_KFsGb2TOWBcub-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TSQTxeQZEHn2F06pjwsT-9" value="&lt;div&gt;&lt;b&gt;计算&lt;/b&gt;&lt;b&gt;平衡和&lt;/b&gt;&lt;b&gt;网格&lt;/b&gt;&lt;/div&gt;calc_eq_grid, 读取平衡，并将平衡映射到 RZ 网格上" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TSQTxeQZEHn2F06pjwsT-1">
           <mxGeometry x="490" y="930" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2355,6 +2358,15 @@
         </mxCell>
         <mxCell id="TSQTxeQZEHn2F06pjwsT-14" value="&lt;div&gt;&lt;b&gt;结束&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TSQTxeQZEHn2F06pjwsT-1">
           <mxGeometry x="690" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eQYu07_KFsGb2TOWBcub-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TSQTxeQZEHn2F06pjwsT-1" source="eQYu07_KFsGb2TOWBcub-0" target="eQYu07_KFsGb2TOWBcub-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eQYu07_KFsGb2TOWBcub-0" value="&lt;div&gt;&lt;b&gt;分配空间&lt;/b&gt;&lt;/div&gt;gblock_alloc, Allocates grid and EQ arrays(B,J,p,pe,ds,veq)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TSQTxeQZEHn2F06pjwsT-1">
+          <mxGeometry x="490" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eQYu07_KFsGb2TOWBcub-2" value="&lt;div&gt;&lt;b&gt;计算&lt;/b&gt;&lt;b&gt;平衡和&lt;/b&gt;&lt;b&gt;网格&lt;/b&gt;&lt;/div&gt;calc_eq_grid, 读取平衡，并将平衡映射到 RZ 网格上" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TSQTxeQZEHn2F06pjwsT-1">
+          <mxGeometry x="490" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
