@@ -2350,7 +2350,7 @@
         <mxCell id="TSQTxeQZEHn2F06pjwsT-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="TSQTxeQZEHn2F06pjwsT-1" source="TSQTxeQZEHn2F06pjwsT-13" target="TSQTxeQZEHn2F06pjwsT-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TSQTxeQZEHn2F06pjwsT-13" value="&lt;div&gt;&lt;b&gt;写入 dump 文件&lt;/b&gt;&lt;/div&gt;dump_write" style="rounded=1;whiteSpace=wrap;html=1;" parent="TSQTxeQZEHn2F06pjwsT-1" vertex="1">
+        <mxCell id="TSQTxeQZEHn2F06pjwsT-13" value="&lt;div&gt;&lt;b&gt;写入文件&lt;/b&gt;&lt;/div&gt;将网格信息和磁流体平衡、扰动信息写入文件" style="rounded=1;whiteSpace=wrap;html=1;" parent="TSQTxeQZEHn2F06pjwsT-1" vertex="1">
           <mxGeometry x="690" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TSQTxeQZEHn2F06pjwsT-14" value="&lt;div&gt;&lt;b&gt;结束&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="TSQTxeQZEHn2F06pjwsT-1" vertex="1">
