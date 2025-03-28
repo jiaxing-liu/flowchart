@@ -2344,7 +2344,7 @@
         <mxCell id="TSQTxeQZEHn2F06pjwsT-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="TSQTxeQZEHn2F06pjwsT-1" source="TSQTxeQZEHn2F06pjwsT-11" target="TSQTxeQZEHn2F06pjwsT-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TSQTxeQZEHn2F06pjwsT-11" value="&lt;div&gt;&lt;b&gt;计算&lt;/b&gt;&lt;b&gt;扰动&lt;/b&gt;&lt;/div&gt;&lt;div&gt;calc_perturbations, 根据输入参数计算扰动物理量&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="TSQTxeQZEHn2F06pjwsT-1" vertex="1">
+        <mxCell id="TSQTxeQZEHn2F06pjwsT-11" value="&lt;div&gt;&lt;b&gt;计算&lt;/b&gt;&lt;b&gt;扰动&lt;/b&gt;&lt;/div&gt;&lt;div&gt;calc_perturbations, 根据输入参数计算各物理量的扰动&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="TSQTxeQZEHn2F06pjwsT-1" vertex="1">
           <mxGeometry x="690" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TSQTxeQZEHn2F06pjwsT-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="TSQTxeQZEHn2F06pjwsT-1" source="TSQTxeQZEHn2F06pjwsT-13" target="TSQTxeQZEHn2F06pjwsT-14" edge="1">
