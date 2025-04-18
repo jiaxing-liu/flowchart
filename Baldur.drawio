@@ -3794,6 +3794,9 @@
         <mxCell id="AP4ini9K8dwoQQ1dZ8c6-16" value="sawtooth&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="270" width="140" height="113" as="geometry" />
         </mxCell>
+        <mxCell id="AP4ini9K8dwoQQ1dZ8c6-17" value="Baldur" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="296.5" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
