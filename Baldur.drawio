@@ -3804,16 +3804,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AP4ini9K8dwoQQ1dZ8c6-18" value="设置默认值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="213" y="296.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="296.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AP4ini9K8dwoQQ1dZ8c6-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AP4ini9K8dwoQQ1dZ8c6-20" target="AP4ini9K8dwoQQ1dZ8c6-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AP4ini9K8dwoQQ1dZ8c6-20" value="读取输入文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="388" y="296.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="296.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AP4ini9K8dwoQQ1dZ8c6-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AP4ini9K8dwoQQ1dZ8c6-22" target="AP4ini9K8dwoQQ1dZ8c6-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AP4ini9K8dwoQQ1dZ8c6-22" value="&lt;div&gt;程序初始化设置&lt;/div&gt;&lt;div&gt;（网格/边界、初始条件/辐射/，温度、密度、磁场初始值...）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="588" y="296.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="296.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AP4ini9K8dwoQQ1dZ8c6-24" value="初始化平衡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="296.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
