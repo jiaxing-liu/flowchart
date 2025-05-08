@@ -3894,8 +3894,71 @@
         <mxCell id="n5CG4lLTyVGNOATaA_7C-5" value="&lt;div align=&quot;center&quot;&gt;结束&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1501" y="319" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-2Hact-m_nTIrmaoHJ2t-3" value="&lt;h1&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 部分初始化&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="430" y="467.35" width="290" height="195.31" as="geometry" />
+        <mxCell id="-2Hact-m_nTIrmaoHJ2t-3" value="&lt;h1&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 部分初始化&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="440" y="433" width="290" height="347" as="geometry" />
+        </mxCell>
+        <mxCell id="-2Hact-m_nTIrmaoHJ2t-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="505.5" y="482" width="141" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="-2Hact-m_nTIrmaoHJ2t-5" value="" style="group" vertex="1" connectable="0" parent="-2Hact-m_nTIrmaoHJ2t-4">
+          <mxGeometry width="141" height="32.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="-2Hact-m_nTIrmaoHJ2t-6" value="&lt;div&gt;&lt;b&gt;getchi(2)&lt;/b&gt;&lt;/div&gt;设置平衡边界" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-2Hact-m_nTIrmaoHJ2t-5">
+          <mxGeometry width="141" height="32.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="-2Hact-m_nTIrmaoHJ2t-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="505.5" y="526" width="141" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="-2Hact-m_nTIrmaoHJ2t-8" value="" style="group" vertex="1" connectable="0" parent="-2Hact-m_nTIrmaoHJ2t-7">
+          <mxGeometry width="141" height="32.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="-2Hact-m_nTIrmaoHJ2t-9" value="&lt;div&gt;&lt;b&gt;heat(1)&lt;/b&gt;&lt;/div&gt;设置平衡边界" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-2Hact-m_nTIrmaoHJ2t-8">
+          <mxGeometry width="141" height="32.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="-2Hact-m_nTIrmaoHJ2t-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="505.5" y="568" width="141" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="-2Hact-m_nTIrmaoHJ2t-11" value="" style="group" vertex="1" connectable="0" parent="-2Hact-m_nTIrmaoHJ2t-10">
+          <mxGeometry width="141" height="32.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="-2Hact-m_nTIrmaoHJ2t-12" value="&lt;div&gt;&lt;b&gt;ecrh(1)&lt;/b&gt;&lt;/div&gt;设置平衡边界" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-2Hact-m_nTIrmaoHJ2t-11">
+          <mxGeometry width="141" height="32.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="-2Hact-m_nTIrmaoHJ2t-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="505.5" y="610" width="141" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="-2Hact-m_nTIrmaoHJ2t-14" value="" style="group" vertex="1" connectable="0" parent="-2Hact-m_nTIrmaoHJ2t-13">
+          <mxGeometry width="141" height="32.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="-2Hact-m_nTIrmaoHJ2t-15" value="&lt;div&gt;&lt;b&gt;dummy icrf(1)&lt;/b&gt;&lt;/div&gt;设置平衡边界" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-2Hact-m_nTIrmaoHJ2t-14">
+          <mxGeometry width="141" height="32.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="-2Hact-m_nTIrmaoHJ2t-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="505.5" y="650" width="141" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="-2Hact-m_nTIrmaoHJ2t-17" value="" style="group" vertex="1" connectable="0" parent="-2Hact-m_nTIrmaoHJ2t-16">
+          <mxGeometry width="141" height="32.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="-2Hact-m_nTIrmaoHJ2t-18" value="&lt;div&gt;&lt;b&gt;fusdrv(1)&lt;/b&gt;&lt;/div&gt;设置平衡边界" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-2Hact-m_nTIrmaoHJ2t-17">
+          <mxGeometry width="141" height="32.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="-2Hact-m_nTIrmaoHJ2t-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="505.5" y="730" width="141" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="-2Hact-m_nTIrmaoHJ2t-20" value="" style="group" vertex="1" connectable="0" parent="-2Hact-m_nTIrmaoHJ2t-19">
+          <mxGeometry width="141" height="32.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="-2Hact-m_nTIrmaoHJ2t-21" value="&lt;div&gt;&lt;b&gt;fusion(-1,...)&lt;/b&gt;&lt;/div&gt;设置平衡边界" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-2Hact-m_nTIrmaoHJ2t-20">
+          <mxGeometry width="141" height="32.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="-2Hact-m_nTIrmaoHJ2t-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="505.5" y="690" width="141" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="-2Hact-m_nTIrmaoHJ2t-23" value="" style="group" vertex="1" connectable="0" parent="-2Hact-m_nTIrmaoHJ2t-22">
+          <mxGeometry width="141" height="32.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="-2Hact-m_nTIrmaoHJ2t-24" value="&lt;div&gt;&lt;b&gt;alpini&lt;/b&gt;&lt;/div&gt;设置平衡边界" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-2Hact-m_nTIrmaoHJ2t-23">
+          <mxGeometry width="141" height="32.99999999999999" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
