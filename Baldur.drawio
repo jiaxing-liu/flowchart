@@ -4144,16 +4144,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="efHLu4r3VXgMJLErQU-Q-1" value="" style="group" parent="PoL62_-j3sxM5oxxVpIN-1" vertex="1" connectable="0">
-          <mxGeometry x="1000" y="463" width="110" height="60" as="geometry" />
+          <mxGeometry x="1000" y="463" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="efHLu4r3VXgMJLErQU-Q-2" value="" style="group" parent="efHLu4r3VXgMJLErQU-Q-1" vertex="1" connectable="0">
-          <mxGeometry width="110" height="60" as="geometry" />
+          <mxGeometry width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="efHLu4r3VXgMJLErQU-Q-3" value="&lt;div&gt;&lt;b&gt;mhd&lt;/b&gt;&lt;/div&gt;&lt;div&gt;计算磁面平均量，如果有必要也重新计算平衡&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="efHLu4r3VXgMJLErQU-Q-2" vertex="1">
-          <mxGeometry y="-1.5999999999999996" width="110" height="70" as="geometry" />
+        <mxCell id="efHLu4r3VXgMJLErQU-Q-3" value="&lt;div&gt;&lt;b&gt;mhd&lt;/b&gt;&lt;/div&gt;&lt;div&gt;计算磁面平均量，如果有必要也重新计算平衡&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="efHLu4r3VXgMJLErQU-Q-2" vertex="1">
+          <mxGeometry y="-1.6" width="110" height="71.6" as="geometry" />
         </mxCell>
         <mxCell id="efHLu4r3VXgMJLErQU-Q-4" value="" style="group" parent="PoL62_-j3sxM5oxxVpIN-1" vertex="1" connectable="0">
-          <mxGeometry x="1129" y="463" width="99" height="50" as="geometry" />
+          <mxGeometry x="1129" y="473" width="99" height="50" as="geometry" />
         </mxCell>
         <mxCell id="efHLu4r3VXgMJLErQU-Q-5" value="" style="group" parent="efHLu4r3VXgMJLErQU-Q-4" vertex="1" connectable="0">
           <mxGeometry width="99" height="50" as="geometry" />
@@ -4162,7 +4162,7 @@
           <mxGeometry width="99" height="50" as="geometry" />
         </mxCell>
         <mxCell id="efHLu4r3VXgMJLErQU-Q-14" value="" style="group" parent="PoL62_-j3sxM5oxxVpIN-1" vertex="1" connectable="0">
-          <mxGeometry x="1540" y="459.5" width="99" height="50" as="geometry" />
+          <mxGeometry x="1540" y="473" width="99" height="50" as="geometry" />
         </mxCell>
         <mxCell id="efHLu4r3VXgMJLErQU-Q-15" value="" style="group" parent="efHLu4r3VXgMJLErQU-Q-14" vertex="1" connectable="0">
           <mxGeometry width="99" height="50" as="geometry" />
@@ -4204,7 +4204,7 @@
           <mxGeometry x="1540" y="199" width="99" height="50" as="geometry" />
         </mxCell>
         <mxCell id="efHLu4r3VXgMJLErQU-Q-10" value="" style="group" parent="PoL62_-j3sxM5oxxVpIN-1" vertex="1" connectable="0">
-          <mxGeometry x="1390" y="460" width="99" height="50" as="geometry" />
+          <mxGeometry x="1400" y="473" width="99" height="50" as="geometry" />
         </mxCell>
         <mxCell id="efHLu4r3VXgMJLErQU-Q-11" value="" style="group" parent="efHLu4r3VXgMJLErQU-Q-10" vertex="1" connectable="0">
           <mxGeometry width="99" height="50" as="geometry" />
@@ -4234,7 +4234,7 @@
           <mxGeometry x="822.3" y="280" width="167.4" height="110" as="geometry" />
         </mxCell>
         <mxCell id="efHLu4r3VXgMJLErQU-Q-7" value="" style="group" parent="PoL62_-j3sxM5oxxVpIN-1" vertex="1" connectable="0">
-          <mxGeometry x="1250" y="460.5" width="99" height="50" as="geometry" />
+          <mxGeometry x="1260" y="473" width="99" height="50" as="geometry" />
         </mxCell>
         <mxCell id="efHLu4r3VXgMJLErQU-Q-8" value="" style="group" parent="efHLu4r3VXgMJLErQU-Q-7" vertex="1" connectable="0">
           <mxGeometry width="99" height="50" as="geometry" />
@@ -4256,9 +4256,6 @@
             <mxPoint x="1000" y="492" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lSzfxxtcAJnWgpYDDXUm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PoL62_-j3sxM5oxxVpIN-1" source="efHLu4r3VXgMJLErQU-Q-6" target="efHLu4r3VXgMJLErQU-Q-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="lSzfxxtcAJnWgpYDDXUm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PoL62_-j3sxM5oxxVpIN-1" source="efHLu4r3VXgMJLErQU-Q-9" target="efHLu4r3VXgMJLErQU-Q-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -4277,11 +4274,8 @@
         <mxCell id="lSzfxxtcAJnWgpYDDXUm-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="PoL62_-j3sxM5oxxVpIN-1" source="efHLu4r3VXgMJLErQU-Q-25" target="efHLu4r3VXgMJLErQU-Q-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lSzfxxtcAJnWgpYDDXUm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PoL62_-j3sxM5oxxVpIN-1" source="efHLu4r3VXgMJLErQU-Q-3" target="efHLu4r3VXgMJLErQU-Q-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lSzfxxtcAJnWgpYDDXUm-15" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;计算系数&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="PoL62_-j3sxM5oxxVpIN-1">
-          <mxGeometry x="1033.5" y="600" width="290" height="380" as="geometry" />
+        <mxCell id="lSzfxxtcAJnWgpYDDXUm-15" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;计算输运系数、源&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="PoL62_-j3sxM5oxxVpIN-1">
+          <mxGeometry x="1033.5" y="570" width="290" height="410" as="geometry" />
         </mxCell>
         <mxCell id="lSzfxxtcAJnWgpYDDXUm-16" value="" style="group" vertex="1" connectable="0" parent="PoL62_-j3sxM5oxxVpIN-1">
           <mxGeometry x="1140" y="637" width="149" height="53" as="geometry" />
@@ -4306,6 +4300,12 @@
         </mxCell>
         <mxCell id="lSzfxxtcAJnWgpYDDXUm-26" value="&lt;div&gt;convrt:&lt;/div&gt;&lt;div&gt;将以上输运系数、源和汇，转换为程序求解的 a,b,c,d 格式&lt;/div&gt;&lt;div&gt;&lt;div&gt;cnvcof(2): 将 a,b,c,d 转为 internal unit 形式&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PoL62_-j3sxM5oxxVpIN-1">
           <mxGeometry x="1055.65" y="900" width="245.7" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="lSzfxxtcAJnWgpYDDXUm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PoL62_-j3sxM5oxxVpIN-1" source="efHLu4r3VXgMJLErQU-Q-3" target="efHLu4r3VXgMJLErQU-Q-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lSzfxxtcAJnWgpYDDXUm-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PoL62_-j3sxM5oxxVpIN-1" source="efHLu4r3VXgMJLErQU-Q-6" target="efHLu4r3VXgMJLErQU-Q-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
