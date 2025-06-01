@@ -4144,13 +4144,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="efHLu4r3VXgMJLErQU-Q-1" value="" style="group" parent="PoL62_-j3sxM5oxxVpIN-1" vertex="1" connectable="0">
-          <mxGeometry x="1000" y="463" width="99" height="50" as="geometry" />
+          <mxGeometry x="1000" y="463" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="efHLu4r3VXgMJLErQU-Q-2" value="" style="group" parent="efHLu4r3VXgMJLErQU-Q-1" vertex="1" connectable="0">
-          <mxGeometry width="99" height="50" as="geometry" />
+          <mxGeometry width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="efHLu4r3VXgMJLErQU-Q-3" value="&lt;div&gt;&lt;b&gt;mhd&lt;/b&gt;&lt;/div&gt;&lt;div&gt;计算磁面平均量，如果有必要也重新计算平衡&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="efHLu4r3VXgMJLErQU-Q-2" vertex="1">
-          <mxGeometry width="99" height="50" as="geometry" />
+          <mxGeometry y="-1.5999999999999996" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="efHLu4r3VXgMJLErQU-Q-4" value="" style="group" parent="PoL62_-j3sxM5oxxVpIN-1" vertex="1" connectable="0">
           <mxGeometry x="1120" y="463" width="99" height="50" as="geometry" />
@@ -4251,8 +4251,10 @@
         <mxCell id="efHLu4r3VXgMJLErQU-Q-29" value="&lt;div&gt;&lt;b&gt;fusion&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="PoL62_-j3sxM5oxxVpIN-1" vertex="1">
           <mxGeometry x="1220" y="200" width="99" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lSzfxxtcAJnWgpYDDXUm-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PoL62_-j3sxM5oxxVpIN-1" source="PoL62_-j3sxM5oxxVpIN-9" target="efHLu4r3VXgMJLErQU-Q-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="lSzfxxtcAJnWgpYDDXUm-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="PoL62_-j3sxM5oxxVpIN-1" source="PoL62_-j3sxM5oxxVpIN-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="492" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lSzfxxtcAJnWgpYDDXUm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PoL62_-j3sxM5oxxVpIN-1" source="efHLu4r3VXgMJLErQU-Q-3" target="efHLu4r3VXgMJLErQU-Q-6">
           <mxGeometry relative="1" as="geometry" />
