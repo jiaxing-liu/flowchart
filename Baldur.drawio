@@ -4314,34 +4314,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lSzfxxtcAJnWgpYDDXUm-33" value="" style="group" vertex="1" connectable="0" parent="PoL62_-j3sxM5oxxVpIN-1">
-          <mxGeometry x="1260" y="590" width="310" height="410" as="geometry" />
+          <mxGeometry x="1260" y="590" width="310" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="lSzfxxtcAJnWgpYDDXUm-34" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;计算磁场和欧姆加热&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lSzfxxtcAJnWgpYDDXUm-33">
-          <mxGeometry width="310" height="410" as="geometry" />
+        <mxCell id="lSzfxxtcAJnWgpYDDXUm-34" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;计算磁场和欧姆加热&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lSzfxxtcAJnWgpYDDXUm-33">
+          <mxGeometry width="310" height="140" as="geometry" />
         </mxCell>
         <mxCell id="lSzfxxtcAJnWgpYDDXUm-35" value="" style="group" vertex="1" connectable="0" parent="lSzfxxtcAJnWgpYDDXUm-33">
-          <mxGeometry x="106.5" y="67" width="149" height="53" as="geometry" />
+          <mxGeometry x="115" y="49.879999999999995" width="149" height="77.12" as="geometry" />
         </mxCell>
         <mxCell id="lSzfxxtcAJnWgpYDDXUm-36" value="" style="group" vertex="1" connectable="0" parent="lSzfxxtcAJnWgpYDDXUm-35">
-          <mxGeometry x="-34.38461538461538" width="183.38461538461536" height="53" as="geometry" />
+          <mxGeometry x="-34.38461538461538" width="183.38461538461536" height="77.12" as="geometry" />
         </mxCell>
         <mxCell id="lSzfxxtcAJnWgpYDDXUm-37" value="&lt;div&gt;boots(xx,xx,xx,xx)：&lt;/div&gt;&lt;div&gt;计算 bootstrap current 和 trapped particle current density&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lSzfxxtcAJnWgpYDDXUm-36">
-          <mxGeometry x="-42.319526627218934" width="225.7041420118343" height="53" as="geometry" />
+          <mxGeometry x="-42.319526627218934" width="225.7041420118343" height="77.12" as="geometry" />
         </mxCell>
-        <mxCell id="lSzfxxtcAJnWgpYDDXUm-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lSzfxxtcAJnWgpYDDXUm-33" source="lSzfxxtcAJnWgpYDDXUm-39" target="lSzfxxtcAJnWgpYDDXUm-40">
+        <mxCell id="lSzfxxtcAJnWgpYDDXUm-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.16;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="PoL62_-j3sxM5oxxVpIN-1" source="efHLu4r3VXgMJLErQU-Q-9" target="lSzfxxtcAJnWgpYDDXUm-34">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lSzfxxtcAJnWgpYDDXUm-39" value="&lt;div&gt;trcoef：&lt;/div&gt;&lt;div&gt;根据输运模型的选择，计算粒子和能量输运系数&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lSzfxxtcAJnWgpYDDXUm-33">
-          <mxGeometry x="29.799999999999955" y="140" width="225.7041420118343" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="lSzfxxtcAJnWgpYDDXUm-40" value="&lt;div&gt;neugas:&lt;/div&gt;&lt;div&gt;beams(2):&lt;/div&gt;&lt;div&gt;heat(2):&lt;/div&gt;&lt;div&gt;ecrh(2)&lt;br&gt;alphas(2)&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;计算源和汇&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lSzfxxtcAJnWgpYDDXUm-33">
-          <mxGeometry x="29.799999999999955" y="220" width="225.7" height="99" as="geometry" />
-        </mxCell>
-        <mxCell id="lSzfxxtcAJnWgpYDDXUm-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lSzfxxtcAJnWgpYDDXUm-33" source="lSzfxxtcAJnWgpYDDXUm-37" target="lSzfxxtcAJnWgpYDDXUm-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lSzfxxtcAJnWgpYDDXUm-42" value="&lt;div&gt;convrt:&lt;/div&gt;&lt;div&gt;将以上输运系数、源和汇，转换为程序求解的 a,b,c,d 格式&lt;/div&gt;&lt;div&gt;&lt;div&gt;cnvcof(2): 将 a,b,c,d 转为 internal unit 形式&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lSzfxxtcAJnWgpYDDXUm-33">
-          <mxGeometry x="22.15000000000009" y="330" width="245.7" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
