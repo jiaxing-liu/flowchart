@@ -4358,6 +4358,9 @@
         <mxCell id="lSzfxxtcAJnWgpYDDXUm-55" value="&lt;div&gt;solve:&lt;/div&gt;&lt;div&gt;LU 分解法求解以上方程&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;计算了一些通量、源项、守恒量（用于诊断）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lSzfxxtcAJnWgpYDDXUm-46">
           <mxGeometry x="22.15000000000009" y="153.65853658536585" width="245.7" height="50.48780487804878" as="geometry" />
         </mxCell>
+        <mxCell id="lSzfxxtcAJnWgpYDDXUm-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.032;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="PoL62_-j3sxM5oxxVpIN-1" source="efHLu4r3VXgMJLErQU-Q-12" target="lSzfxxtcAJnWgpYDDXUm-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
