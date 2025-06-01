@@ -3967,7 +3967,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="050825" id="kz96ARDh0s4JrkET0XlG">
-    <mxGraphModel dx="1869" dy="1738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1599" dy="1590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PoL62_-j3sxM5oxxVpIN-0" />
         <mxCell id="PoL62_-j3sxM5oxxVpIN-1" parent="PoL62_-j3sxM5oxxVpIN-0" />
@@ -4149,7 +4149,7 @@
         <mxCell id="efHLu4r3VXgMJLErQU-Q-2" value="" style="group" parent="efHLu4r3VXgMJLErQU-Q-1" vertex="1" connectable="0">
           <mxGeometry width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="efHLu4r3VXgMJLErQU-Q-3" value="&lt;div&gt;&lt;b&gt;mhd&lt;/b&gt;&lt;/div&gt;&lt;div&gt;计算磁面平均量，如果有必要也重新计算平衡&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="efHLu4r3VXgMJLErQU-Q-2" vertex="1">
+        <mxCell id="efHLu4r3VXgMJLErQU-Q-3" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(47, 255, 109);&quot;&gt;mhd&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;计算磁面平均量，如果有必要也重新计算平衡&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="efHLu4r3VXgMJLErQU-Q-2" vertex="1">
           <mxGeometry y="-1.6" width="110" height="71.6" as="geometry" />
         </mxCell>
         <mxCell id="efHLu4r3VXgMJLErQU-Q-4" value="" style="group" parent="PoL62_-j3sxM5oxxVpIN-1" vertex="1" connectable="0">
@@ -4224,7 +4224,7 @@
         <mxCell id="PoL62_-j3sxM5oxxVpIN-8" value="" style="group" parent="PoL62_-j3sxM5oxxVpIN-7" vertex="1" connectable="0">
           <mxGeometry x="-13" y="-10" width="156" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="PoL62_-j3sxM5oxxVpIN-9" value="&lt;div&gt;&lt;b&gt;resolv(1)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;保存上一步的关键量到另一个变量，用于后续计算使用&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="PoL62_-j3sxM5oxxVpIN-8" vertex="1">
+        <mxCell id="PoL62_-j3sxM5oxxVpIN-9" value="&lt;div&gt;&lt;b style=&quot;color: light-dark(rgb(0, 255, 128), rgb(237, 237, 237));&quot;&gt;resolv(1)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;保存上一步的关键量到另一个变量，用于后续计算使用&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="PoL62_-j3sxM5oxxVpIN-8" vertex="1">
           <mxGeometry x="17.94" y="48.4" width="120.12" height="61.6" as="geometry" />
         </mxCell>
         <mxCell id="PoL62_-j3sxM5oxxVpIN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="PoL62_-j3sxM5oxxVpIN-1" source="PoL62_-j3sxM5oxxVpIN-13" target="PoL62_-j3sxM5oxxVpIN-9" edge="1">
@@ -4301,7 +4301,7 @@
         <mxCell id="lSzfxxtcAJnWgpYDDXUm-22" value="&lt;div&gt;trcoef：&lt;/div&gt;&lt;div&gt;根据输运模型的选择，计算粒子和能量输运系数&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lSzfxxtcAJnWgpYDDXUm-30">
           <mxGeometry x="29.799999999999955" y="140" width="225.7041420118343" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="lSzfxxtcAJnWgpYDDXUm-23" value="&lt;div&gt;neugas:&lt;/div&gt;&lt;div&gt;beams(2):&lt;/div&gt;&lt;div&gt;heat(2):&lt;/div&gt;&lt;div&gt;ecrh(2)&lt;br&gt;alphas(2)&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;计算源和汇&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lSzfxxtcAJnWgpYDDXUm-30">
+        <mxCell id="lSzfxxtcAJnWgpYDDXUm-23" value="&lt;div&gt;neugas:&lt;/div&gt;&lt;div&gt;beams(2):&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;heat(2): LHW&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;span style=&quot;color: rgb(51, 255, 255);&quot;&gt;ecrh(2)&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;alphas(2)&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;计算源和汇&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lSzfxxtcAJnWgpYDDXUm-30">
           <mxGeometry x="29.799999999999955" y="220" width="225.7" height="99" as="geometry" />
         </mxCell>
         <mxCell id="lSzfxxtcAJnWgpYDDXUm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lSzfxxtcAJnWgpYDDXUm-30" source="lSzfxxtcAJnWgpYDDXUm-18" target="lSzfxxtcAJnWgpYDDXUm-22">
