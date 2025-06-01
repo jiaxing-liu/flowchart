@@ -4361,6 +4361,21 @@
         <mxCell id="lSzfxxtcAJnWgpYDDXUm-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.032;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="PoL62_-j3sxM5oxxVpIN-1" source="efHLu4r3VXgMJLErQU-Q-12" target="lSzfxxtcAJnWgpYDDXUm-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lSzfxxtcAJnWgpYDDXUm-59" value="" style="group" vertex="1" connectable="0" parent="PoL62_-j3sxM5oxxVpIN-1">
+          <mxGeometry x="1690" y="120" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="lSzfxxtcAJnWgpYDDXUm-60" value="&lt;h1&gt;计算更新后的物理量&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lSzfxxtcAJnWgpYDDXUm-59">
+          <mxGeometry width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="lSzfxxtcAJnWgpYDDXUm-61" value="" style="group" vertex="1" connectable="0" parent="lSzfxxtcAJnWgpYDDXUm-59">
+          <mxGeometry x="80.0016129032258" y="49.879999999999995" width="124.96774193548387" height="77.12" as="geometry" />
+        </mxCell>
+        <mxCell id="lSzfxxtcAJnWgpYDDXUm-62" value="" style="group" vertex="1" connectable="0" parent="lSzfxxtcAJnWgpYDDXUm-61">
+          <mxGeometry x="-28.838709677419352" width="153.8064516129032" height="77.12" as="geometry" />
+        </mxCell>
+        <mxCell id="lSzfxxtcAJnWgpYDDXUm-63" value="&lt;div&gt;getchi(1)：&lt;/div&gt;&lt;div&gt;网格中心物理量&lt;/div&gt;&lt;div&gt;&lt;div&gt;getchi(2)：&lt;/div&gt;&lt;div&gt;网格边界物理量和一些辅助量&lt;/div&gt;&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lSzfxxtcAJnWgpYDDXUm-62">
+          <mxGeometry x="-35.49379652605459" width="189.3002481389578" height="77.12" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
