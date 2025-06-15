@@ -4380,7 +4380,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="061525" id="QOHI4diqkxSg9dCzhRLk">
-    <mxGraphModel dx="2430" dy="1992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2216" dy="1882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XmjzwbI_TJy-EA77QgA6-0" />
         <mxCell id="XmjzwbI_TJy-EA77QgA6-1" parent="XmjzwbI_TJy-EA77QgA6-0" />
@@ -4625,7 +4625,7 @@
         <mxCell id="XmjzwbI_TJy-EA77QgA6-77" value="&lt;div&gt;&lt;b&gt;bound&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;reduce&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;solve&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XmjzwbI_TJy-EA77QgA6-76">
           <mxGeometry width="99" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XmjzwbI_TJy-EA77QgA6-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XmjzwbI_TJy-EA77QgA6-1" source="XmjzwbI_TJy-EA77QgA6-79" target="XmjzwbI_TJy-EA77QgA6-90">
+        <mxCell id="c9f2gc9i_SZG0EEKMdnj-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XmjzwbI_TJy-EA77QgA6-1" source="XmjzwbI_TJy-EA77QgA6-79" target="XmjzwbI_TJy-EA77QgA6-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XmjzwbI_TJy-EA77QgA6-79" value="&lt;div&gt;&lt;b&gt;xscale&lt;/b&gt;&lt;/div&gt;&lt;div&gt;计算 Gradient scale lengths 和做平滑处理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XmjzwbI_TJy-EA77QgA6-1">
@@ -4654,15 +4654,6 @@
         </mxCell>
         <mxCell id="XmjzwbI_TJy-EA77QgA6-87" value="&lt;div&gt;&lt;b&gt;solveb&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XmjzwbI_TJy-EA77QgA6-86">
           <mxGeometry width="99" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="XmjzwbI_TJy-EA77QgA6-88" value="&lt;div&gt;&lt;b&gt;igntst&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XmjzwbI_TJy-EA77QgA6-1">
-          <mxGeometry x="1030" y="200" width="99" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="XmjzwbI_TJy-EA77QgA6-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XmjzwbI_TJy-EA77QgA6-1" source="XmjzwbI_TJy-EA77QgA6-90" target="XmjzwbI_TJy-EA77QgA6-88">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XmjzwbI_TJy-EA77QgA6-90" value="&lt;div&gt;&lt;b&gt;fusion&lt;/b&gt;&lt;/div&gt;&lt;div&gt;计算反应率、粒子、能量源项，里面包含慢化模型&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XmjzwbI_TJy-EA77QgA6-1">
-          <mxGeometry x="1220" y="200" width="99" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XmjzwbI_TJy-EA77QgA6-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="XmjzwbI_TJy-EA77QgA6-1" source="XmjzwbI_TJy-EA77QgA6-82">
           <mxGeometry relative="1" as="geometry">
